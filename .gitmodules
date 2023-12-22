@@ -1,0 +1,15 @@
+[submodule "external/discord-rpc"]
+	path = external/discord-rpc
+	url = https://github.com/discord/discord-rpc.git
+[submodule "external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "external/stb"]
+	path = external/stb
+	url = https://github.com/nothings/stb.git
+[submodule "external/funchook"]
+	path = external/funchook
+	url = https://github.com/kubo/funchook.git
+[submodule "external/distorm"]
+	path = external/distorm
+	url = https://github.com/gdabah/distorm.git
